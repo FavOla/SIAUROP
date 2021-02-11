@@ -1,4 +1,4 @@
-# UROPFall20
+# SIAUROP
 
 Accompanying blog post can be found here (with MIT Touchstone license): https://wikis.mit.edu/confluence/display/SIAProjects/2021/02/11/Using+Machine+Learning+to+Clean+a+Grid+Space
 
